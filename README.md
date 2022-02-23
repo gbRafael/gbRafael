@@ -20,7 +20,7 @@
   <img align="center" alt="gb-JS" height="35" width="100" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="gb-Java" height="35" width="100" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="gb-Windows" height="35" width="100" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img align="right" alt="gb-pic" height="120" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/910961336832389140/943596996437086208/nyan-cat-1.gif">
+  <img align="right" alt="gb-pic" height="120" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/910961336832389140/945877868544663572/dormrm.gif">
 
 </div>
 
