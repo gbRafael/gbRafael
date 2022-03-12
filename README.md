@@ -17,8 +17,6 @@
   <img align="center" alt="gb-HTML" height="35" width="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="gb-CSS" height="35" width="100" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="gb-Python" height="35" width="100" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="gb-JS" height="35" width="100" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img align="center" alt="gb-Java" height="35" width="100" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="gb-Windows" height="35" width="100" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img align="right" alt="gb-pic" height="120" style="border-radius:50px;" src="https://c.tenor.com/f-nICqWLnrQAAAAC/programmer-cycle.gif">
 
