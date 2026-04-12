@@ -1,34 +1,33 @@
-## Olá! Sou o Rafael Bueno
+## Olá! Sou o Rafael Bueno 👋
 
-- 🔭 Estou a procura de um emprego na área de T.I.
-- 🌱 Estudando Html, Css e Python
-- 😄 Pronouns: ele/dele
+Analista de Infraestrutura e Segurança da Informação com experiência em cloud computing (AWS e GCP), gestão de identidade com Microsoft Entra ID / Azure AD, firewall FortiGate e ambientes críticos de TI.
 
+Atualmente na **Intecso** (agronegócio), onde lidero projetos de infraestrutura e segurança end-to-end.
 
-<div align="center">
-  <a href="https://github.com/gbRafael">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gbRafael&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+---
 
-  
-  
- <div style="display: inline_block"><br>
+### 🛠️ Stack & Tecnologias
 
-  <img align="center" alt="gb-HTML" height="35" width="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="gb-CSS" height="35" width="100" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="gb-Python" height="35" width="100" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="gb-Windows" height="35" width="100" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img align="right" alt="gb-pic" height="120" style="border-radius:50px;" src="https://c.tenor.com/f-nICqWLnrQAAAAC/programmer-cycle.gif">
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![FortiGate](https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-</div>
+---
 
-## 
-  
-<div>
-  <a href="https://www.instagram.com/rafa.gbueno/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafael-de-goes-bueno-aba4a3199/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:rafaelbueno.rgb@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+### 📜 Certificações
 
-  ![Snake animation](https://github.com/gbRafael/gbRafael/blob/output/github-contribution-grid-snake.svg)
+- 🟠 AWS Academy Cloud Architecting
+- 🔵 Architecting with Google Compute Engine (GCP)
 
-</div>
+---
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-de-goes-bueno-aba4a3199/)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://curriculumrgb.netlify.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelbueno.rgb@gmail.com)
